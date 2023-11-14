@@ -36,7 +36,7 @@ Welcome to the Kids Toys Landing Page project! Dive into the world of fun and ex
 
 🌐 Live Demo
 
-Experience the joy of our Kids Toys Landing Page with the live demo -
+Experience the joy of our Kids Toys Landing Page with the live demo - https://chula805.github.io/Kids-Toys-Website/
 
 📬 Feedback
 
